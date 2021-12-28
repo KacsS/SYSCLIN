@@ -1,0 +1,262 @@
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\SYSCLIN.vbprojAssemblyReference.cache
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.GenerateResource.cache
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.CoreCompileInputs.cache
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Inicio.resources
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Historia.resources
+C:\Users\kenner\Downloads\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\Modern-Media-Player-UI-Visual-Basic-VB.Net-master\MediaPlayerUI\obj\Debug\MediaPlayerUI.Motivo.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbprojAssemblyReference.cache
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Examenes.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Inicio.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Historia.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Motivo.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.GenerateResource.cache
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.CoreCompileInputs.cache
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Recp_exam.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Diagnostico.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Tratamiento.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Antecedentes.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.manifest
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.application
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe.manifest
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.application
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.manifest
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.application
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbprojAssemblyReference.cache
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Antecedentes.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Diagnostico.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Examenes.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Inicio.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Historia.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Motivo.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Recp_exam.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Tratamiento.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.GenerateResource.cache
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.CoreCompileInputs.cache
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe.manifest
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.application
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Vacunas.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.manifest
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.application
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbprojAssemblyReference.cache
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Antecedentes.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Diagnostico.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Examenes.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Historia.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Motivo.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Recp_exam.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Tratamiento.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Vacunas.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.GenerateResource.cache
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.CoreCompileInputs.cache
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe.manifest
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.application
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Inicio.resources
+C:\Users\ORGMET2\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Login.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.manifest
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.application
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MySql.Data.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\Google.Protobuf.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\Zstandard.Net.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\System.Buffers.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MySql.Data.xml
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbprojAssemblyReference.cache
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Antecedentes.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Diagnostico.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Examenes.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Historia.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Inicio.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Login.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Motivo.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Recp_exam.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Tratamiento.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Vacunas.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.GenerateResource.cache
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.CoreCompileInputs.cache
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe.manifest
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.application
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.CopyComplete
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN (1)\SYSCLIN\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.manifest
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.application
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\MySql.Data.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\Google.Protobuf.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\Zstandard.Net.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\System.Buffers.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\bin\Debug\MySql.Data.xml
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbprojAssemblyReference.cache
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Antecedentes.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Diagnostico.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Examenes.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Historia.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Inicio.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Login.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Motivo.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Recp_exam.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Tratamiento.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Vacunas.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.GenerateResource.cache
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.CoreCompileInputs.cache
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe.manifest
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.application
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.CopyComplete
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Pacientes.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\Interop.ADODB.dll
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.ResolveComReference.cache
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Nota.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Registro_vacuna.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Historico.resources
+C:\Users\kenner\Downloads\SYSCLIN (1)\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Pac_histo.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\Interop.ADODB.dll
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.ResolveComReference.cache
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.GenerateResource.cache
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.CoreCompileInputs.cache
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.config
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe.manifest
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.application
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.exe
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.pdb
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\MediaPlayerUI.xml
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\MySql.Data.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\Google.Protobuf.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\Zstandard.Net.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\System.Buffers.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\MySql.Data.xml
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbprojAssemblyReference.cache
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\Interop.ADODB.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.ResolveComReference.cache
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Antecedentes.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Diagnostico.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Examenes.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Historia.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Inicio.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Login.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Motivo.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Resources.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Nota.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Pacientes.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Pac_histo.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Recp_exam.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Registro_vacuna.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Tratamiento.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Vacunas.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.GenerateResource.cache
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.CoreCompileInputs.cache
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe.manifest
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.application
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.CopyComplete
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.exe
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.xml
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.pdb
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Historico.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.form.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Ver_documentos.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Percentiles.resources
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\Interop.SHDocVw.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\Interop.SHDocVw.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\Interop.SHDocVw.dll
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\Interop.SHDocVw.dll
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.AssemblyReference.cache
+C:\Users\kenner\Downloads\SYSCLIN V2\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\MediaPlayerUI.Form1.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\SYSCLIN.exe.config
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\SYSCLIN.exe.manifest
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\SYSCLIN.application
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\SYSCLIN.exe
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\SYSCLIN.pdb
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\bin\Debug\SYSCLIN.xml
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.form.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Antecedentes.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Diagnostico.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Examenes.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Historia.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Historico.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Inicio.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Login.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Motivo.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Form1.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Resources.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Nota.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Pacientes.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Pac_histo.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Percentiles.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Recp_exam.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Registro_vacuna.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Tratamiento.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Vacunas.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.Ver_documentos.resources
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.exe.manifest
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.application
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.exe
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.xml
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.pdb
+C:\Users\ORGMET1\Desktop\SYSCLIN V2\SYSCLIN\MediaPlayerUI\obj\Debug\SYSCLIN.vbproj.CopyComplete

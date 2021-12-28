@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SYSCLIN
+</name>
+</assembly>
+<members>
+<member name="T:SYSCLIN.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources._068minimize_100011">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources._1486485558_82add_create_new_cross_medical_plus_81161">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources._1486564411_checkmark_81522">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources._32officeicons_2_89706">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources._3668853_ambulance_expense_healthcare_medicine_108016">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources._4_icon_icons_com_67659">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.Attach_26997">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.cancel_29373">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.checklist_pen_tab_list_tick_icon_188931">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.delete_remove_page_document_16678">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.document_paper_checklist_list_virus_disease_coronavirus_covid_icon_134736">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.exam_icon_182959">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.export_archive_icon_icons_com_53998">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.gmail_new_logo_icon_159149">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.historia">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.Historical_icon_icons_com_54175">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.Historical_icon_icons_com_54175__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.Login_37128__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.LOGO_M_T_G">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.LOGO2_M_T_G">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.pen_edit_modify_pencil_icon_181536">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.phone_volume_icon_icons_com_56474">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.preview_search_find_locate_1551">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.printer_78349">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.Save_37110">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.Save_37110__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.user_icon_icons_com_66546">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.view_search_find_image_photo_6099">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SYSCLIN.My.Resources.Resources.whichapplication_conversation_email_phone_7097">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

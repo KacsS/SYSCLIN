@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4C1829B6-1F4A-4458-B59D-EDAD07606EFA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SYSCLIN.My.MyApplication</StartupObject>
+    <RootNamespace>SYSCLIN</RootNamespace>
+    <AssemblyName>SYSCLIN</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\ORGMET1\Desktop\SYSCLIN V2\Public\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>6</ApplicationRevision>
+    <ApplicationVersion>1.1.2.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SYSCLIN.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SYSCLIN.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>FA58313F9C68C8EC592EDBCC0642DEE69FFCABBF</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>SYSCLIN_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>hospital-1_icon-icons.com_66068.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.25.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 8.0.25\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adjuntar.Designer.vb">
+      <DependentUpon>Adjuntar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Adjuntar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Antecedentes.Designer.vb">
+      <DependentUpon>Antecedentes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Antecedentes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagnostico.Designer.vb">
+      <DependentUpon>Diagnostico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Diagnostico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examenes.Designer.vb">
+      <DependentUpon>Examenes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Examenes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Historia.Designer.vb">
+      <DependentUpon>Historia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Historia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Historico.Designer.vb">
+      <DependentUpon>Historico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Historico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.vb">
+      <DependentUpon>Inicio.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Motivo.Designer.vb">
+      <DependentUpon>Motivo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Motivo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Nota.Designer.vb">
+      <DependentUpon>Nota.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nota.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pacientes.Designer.vb">
+      <DependentUpon>Pacientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pacientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pac_histo.Designer.vb">
+      <DependentUpon>Pac_histo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pac_histo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Percentiles.Designer.vb">
+      <DependentUpon>Percentiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Percentiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recp_exam.Designer.vb">
+      <DependentUpon>Recp_exam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Recp_exam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro_vacuna.Designer.vb">
+      <DependentUpon>Registro_vacuna.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Registro_vacuna.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tratamiento.Designer.vb">
+      <DependentUpon>Tratamiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tratamiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vacunas.Designer.vb">
+      <DependentUpon>Vacunas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vacunas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ver_documentos.Designer.vb">
+      <DependentUpon>Ver_documentos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ver_documentos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Adjuntar.resx">
+      <DependentUpon>Adjuntar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Antecedentes.resx">
+      <DependentUpon>Antecedentes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diagnostico.resx">
+      <DependentUpon>Diagnostico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examenes.resx">
+      <DependentUpon>Examenes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Historia.resx">
+      <DependentUpon>Historia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Historico.resx">
+      <DependentUpon>Historico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Motivo.resx">
+      <DependentUpon>Motivo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nota.resx">
+      <DependentUpon>Nota.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pacientes.resx">
+      <DependentUpon>Pacientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pac_histo.resx">
+      <DependentUpon>Pac_histo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Percentiles.resx">
+      <DependentUpon>Percentiles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recp_exam.resx">
+      <DependentUpon>Recp_exam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro_vacuna.resx">
+      <DependentUpon>Registro_vacuna.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tratamiento.resx">
+      <DependentUpon>Tratamiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vacunas.resx">
+      <DependentUpon>Vacunas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ver_documentos.resx">
+      <DependentUpon>Ver_documentos.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="SYSCLIN_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\historia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_37110.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_37110 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pen_edit_modify_pencil_icon_181536.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer_78349.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Attach_26997.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exam_icon_182959.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_29373.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checklist_pen_tab_list_tick_icon_188931.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_paper_checklist_list_virus_disease_coronavirus_covid_icon_134736.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_icon-icons.com_66546.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3668853-ambulance-expense-healthcare-medicine_108016.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32officeicons-2_89706.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login_37128 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486564411-checkmark_81522.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486485558-82add-create-new-cross-medical-plus_81161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{00000205-0000-0010-8000-00AA006D2EA4}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxSHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Historical_icon-icons.com_54175.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Historical_icon-icons.com_54175 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preview_search_find_locate_1551.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_remove_page_document_16678.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_search_find_image_photo_6099.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4_icon-icons.com_67659.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO M.T.G.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gmail_new_logo_icon_159149.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-volume_icon-icons.com_56474.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whichapplication_conversation_email_phone_7097.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO2 M.T.G.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export-archive_icon-icons.com_53998.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\068minimize_100011.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="hospital-1_icon-icons.com_66068.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
